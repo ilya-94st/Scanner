@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="qrCode">QrCode</string>
+    <string name="arrayPerson">ArrayPerson</string>
+    <string name="addPerson">AddPerson</string>
+    <string name="editTextFullName">Full Name</string>
+    <string name="editTextPhone">Phone</string>
+    <string name="editTextEmail">Email</string>
+    <string name="buttonCall">Call</string>
+    <string name="buttonEmail">Email</string>
+    <string name="buttonEdit">Edit</string>
+    <string name="buttonSave">Save</string>
+    <string name="editTextAndrev">Andrew Turtsevich</string>
+    <string name="editTextNumber">+375291234567</string>
+    <string name="editTextEmailAndrew">a.turtsevich@vironit.co.uk</string>
+    <string name="textMyCard">My card</string>
+    <string name="action_settings">Arrays</string>
+    <string name="buttonQrcode">Qrcode</string>
+    <string name="addNewContact">addNewContact</string>
+    <string name="arrays">array</string>
+
+
+
+    <string-array name="cat_names">
+        <item>Рыжик</item>
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Мурка</item>
+        <item>Васька</item>
+        <item>Томасина</item>
+        <item>Кристина</item>
+        <item>Пушок</item>
+        <item>Дымка</item>
+        <item>Кузя</item>
+        <item>Китти</item>
+        <item>Масяня</item>
+        <item>Симба</item>
+    </string-array>
+</resources>

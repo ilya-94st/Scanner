@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addPersonFragment"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/addPerson" />
+
+    <item
+        android:id="@+id/arrayPersonFragment"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="@string/arrayPerson"/>
+    <item
+        android:id="@+id/qrcodeFragment"
+        android:icon="@drawable/ic_baseline_ad_units_24"
+        android:title="@string/qrCode" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navi"
+    app:startDestination="@id/qrcodeFragment">
+
+    <fragment
+        android:id="@+id/qrcodeFragment"
+        android:name="com.example.scanner.QrcodeFragment"
+        android:label="fragment_qrcode"
+        tools:layout="@layout/fragment_qrcode" />
+    <fragment
+        android:id="@+id/addPersonFragment"
+        android:name="com.example.scanner.AddPersonFragment"
+        android:label="fragment_add_person"
+        tools:layout="@layout/fragment_add_person" />
+    <fragment
+        android:id="@+id/arrayPersonFragment"
+        android:name="com.example.scanner.ArrayPersonFragment"
+        android:label="fragment_array_person"
+        tools:layout="@layout/fragment_array_person" />
+</navigation>
